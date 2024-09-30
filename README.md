@@ -1,4 +1,8 @@
     <div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=fcd997&height=120&text=Jin%20seong%20won&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    
+    <div align= "center">
      <img src="https://capsule-render.vercel.app/api?type=rounded&color=fcd997&height=120&text=Jin%20seong%20won&animation=&fontColor=000000&fontSize=70" />
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
