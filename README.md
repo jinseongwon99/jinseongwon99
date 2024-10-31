@@ -31,8 +31,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/jin_sung_1/profilecard/?igsh=MTJ6dGU1YWR5ZGc1cw==> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jin_sung_1/profilecard/?igsh=MTJ6dGU1YWR5ZGc1cw=="> </a>
          <a href=http://marmalade-canvas-697.notion.site> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=http://marmalade-canvas-697.notion.site"> </a>
-         <a href=mailto:201809116@itc.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:201809116@itc.ac.kr
-"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
